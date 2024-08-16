@@ -1,0 +1,16 @@
+# python cache directories
+__pycache__/
+*.pyc
+*.pyo
+
+# environment variables
+.env
+
+# service account credentials (sensitive data)
+service_account.json
+
+# log files
+*.log
+
+# other system files 
+.DS_Store 
